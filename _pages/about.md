@@ -22,4 +22,3 @@ Risi Kondor†, **Zhen Lin†** and Shubhendu Trivedi†
 _Neural Information Processing Systems (NuerIPS) 2018, Montreal, Canada_  
 [_arXiv preprint arXiv:1806.09231_](https://arxiv.org/pdf/1806.09231.pdf)  
 <font size="-3"> † denotes alphabetical author ordering </font>  
-<span style="font-size:x-small;">† denotes alphabetical author ordering</span>  
